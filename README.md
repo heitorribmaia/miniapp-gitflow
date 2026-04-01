@@ -18,4 +18,5 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno A Heitor Ribeiro Maia "heitorribmaia" 2522673
+- Aluno B Daniel Barbosa Melhado de Araujo "danbm25" 2522695
